@@ -1,1 +1,6 @@
-echo "helloworle"
+*HELLO WORLD IN COBOL
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. HELLOWORLD.
+       PROCEDURE DIVISION.
+           DISPLAY "HELLO WORLD Changed!".
+           STOP RUN.
